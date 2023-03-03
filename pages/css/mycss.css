@@ -1,0 +1,30 @@
+  .sidebar{
+    background-color:;
+    border-right:4px solid #FE4A49;
+    margin-left: -15px;
+    width: 15%;
+    height: 690px;
+
+}
+a li{
+  list-style-type: none;
+  color:black;
+  padding: 16px 30px;
+  border-bottom:1px solid gray;
+  opacity:.8px;
+  width:253px; 
+  font-family: "Poppins", Arial, sans-serif;
+  font-size: 18px;
+}
+a li:hover{
+        color: #fff;
+        background: #FE4A49;
+        transition:.5s;
+        width:253px; 
+}
+
+  .table-raf{
+    margin-top: -15px;
+    margin-left:280px;
+    margin-right: 10px;
+  }

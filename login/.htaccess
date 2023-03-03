@@ -1,0 +1,6 @@
+RewriteEngine On
+
+ 
+RewriteRule ^LoginForm?$ index.php
+
+#ErrorDocument 404 http://localhost/www/phLogin.php
